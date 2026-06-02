@@ -1,11 +1,5 @@
 pandas
 numpy
+seaborn
+matplotlib
 scikit-learn
-tensorflow
-scipy
-fastapi
-uvicorn
-streamlit
-requests
-joblib
-librosa
